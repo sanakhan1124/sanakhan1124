@@ -29,4 +29,4 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/sanakhan1124
-- LinkedIn: https://www.linkedin.com/in/sana-khan11?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+- LinkedIn: linkedin.com/in/sana-khan11
