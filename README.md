@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋, I'm Sana Khan
 
-<!--
-**sanakhan1124/sanakhan1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 B.Tech CSE (Cyber Security) Student
+- 🔐 Interested in Cyber Security & Ethical Hacking
+- 💻 Learning Python & Web Development
+- 🌱 Exploring Networking & Security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- C
+- C++
+- DSA
+- Python
+- Pandas
+- SQL Injection
+- Linux
+- Networking 
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🔐 SecurePass Analyzer
+- 🛡 ShieldHash Integrity Checker
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/sanakhan1124
+- LinkedIn: https://www.linkedin.com/in/sana-khan11?utm_source=share_via&utm_content=profile&utm_medium=member_ios
